@@ -1,0 +1,34 @@
+{
+  "_설명": "UN 공식 표기 → ISO 3166-1 alpha-3. 자동 매칭 실패분만 수작업으로 둔다.",
+  "_주의": "여기 없는 이름은 ETL에서 자동 매칭을 시도하고, 실패하면 반드시 로그로 남길 것.",
+  "alias": {
+    "Bolivia (Plurinational State of)": "BOL",
+    "Democratic People's Republic of Korea": "PRK",
+    "Democratic Republic of the Congo": "COD",
+    "Iran (Islamic Republic of)": "IRN",
+    "Lao People's Democratic Republic": "LAO",
+    "Micronesia (Federated States of)": "FSM",
+    "Republic of Korea": "KOR",
+    "Republic of Moldova": "MDA",
+    "Syrian Arab Republic": "SYR",
+    "United Kingdom of Great Britain and Northern Ireland": "GBR",
+    "United Republic of Tanzania": "TZA",
+    "United States of America": "USA",
+    "Venezuela (Bolivarian Republic of)": "VEN",
+    "State of Palestine": "PSE",
+    "Holy See": "VAT",
+    "Cook Islands": "COK",
+    "Niue": "NIU",
+    "Côte d'Ivoire": "CIV",
+    "Türkiye": "TUR",
+    "Viet Nam": "VNM",
+    "Brunei Darussalam": "BRN",
+    "Cabo Verde": "CPV",
+    "Eswatini": "SWZ",
+    "North Macedonia": "MKD",
+    "Russian Federation": "RUS"
+  },
+  "exclude": {
+    "European Union": "지역통합기구 — ISO3166 국가코드 없음, GeoJSON에도 없음"
+  }
+}
