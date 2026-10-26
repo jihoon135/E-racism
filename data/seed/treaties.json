@@ -1,0 +1,11 @@
+{
+  "_source": "name_en·adopted_year: UN Treaty Collection MTDSG Chapter IV (2026-10 확인) https://treaties.un.org/pages/ViewDetails.aspx?src=IND&mtdsg_no=IV-{2:ICERD,4:ICCPR,8:CEDAW,11:CRC,13:ICRMW,15:CRPD}&chapter=4 / name_ko·data_updated_at: docs/01-데이터.md §2-1",
+  "treaties": [
+    {"code": "ICERD", "name_en": "International Convention on the Elimination of All Forms of Racial Discrimination", "name_ko": "인종차별철폐협약", "adopted_year": 1965, "data_updated_at": "2026-06-02"},
+    {"code": "CEDAW", "name_en": "Convention on the Elimination of All Forms of Discrimination against Women", "name_ko": "여성차별철폐협약", "adopted_year": 1979, "data_updated_at": "2023-02-21"},
+    {"code": "CRC", "name_en": "Convention on the Rights of the Child", "name_ko": "아동권리협약", "adopted_year": 1989, "data_updated_at": "2023-02-21"},
+    {"code": "CRPD", "name_en": "Convention on the Rights of Persons with Disabilities", "name_ko": "장애인권리협약", "adopted_year": 2006, "data_updated_at": "2026-09-15"},
+    {"code": "ICCPR", "name_en": "International Covenant on Civil and Political Rights", "name_ko": "시민적·정치적 권리규약", "adopted_year": 1966, "data_updated_at": "2025-11-18"},
+    {"code": "ICRMW", "name_en": "International Convention on the Protection of the Rights of All Migrant Workers and Members of their Families", "name_ko": "이주노동자권리협약", "adopted_year": 1990, "data_updated_at": "2025-01-07"}
+  ]
+}

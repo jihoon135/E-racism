@@ -26,7 +26,17 @@
     "Cabo Verde": "CPV",
     "Eswatini": "SWZ",
     "North Macedonia": "MKD",
-    "Russian Federation": "RUS"
+    "Russian Federation": "RUS",
+    "Antigua and Barbuda": "ATG",
+    "Bosnia and Herzegovina": "BIH",
+    "Congo": "COG",
+    "Czech Republic": "CZE",
+    "Myanmar": "MMR",
+    "Saint Kitts and Nevis": "KNA",
+    "Saint Lucia": "LCA",
+    "Saint Vincent and the Grenadines": "VCT",
+    "Sao Tome and Principe": "STP",
+    "Trinidad and Tobago": "TTO"
   },
   "exclude": {
     "European Union": "지역통합기구 — ISO3166 국가코드 없음, GeoJSON에도 없음"
